@@ -1,14 +1,14 @@
 
-![GitHub Repo stars](https://img.shields.io/github/stars/code-x-mania/filestreambot?color=blue&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/code-x-mania/filestreambot?color=green&style=flat)
-![GitHub contributors](https://img.shields.io/github/contributors/code-x-mania/filestreambot?style=flat)
-![GitHub repo size](https://img.shields.io/github/repo-size/code-x-mania/filestreambot?color=yellow)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/code-x-mania/filestreambot)
+![GitHub Repo stars](https://img.shields.io/github/stars/FRIENDLYTECHYT/filestreambot?color=blue&style=flat)
+![GitHub forks](https://img.shields.io/github/forks/FRIENDLYTECHYT/filestreambot?color=green&style=flat)
+![GitHub contributors](https://img.shields.io/github/contributors/FRIENDLYTECHYT/filestreambot?style=flat)
+![GitHub repo size](https://img.shields.io/github/repo-size/FRIENDLYTECHYT/filestreambot?color=yellow)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/FRIENDLYTECHYT/filestreambot)
 ![GitHub](https://img.shields.io/github/license/code-x-mania/filestreambot)
-[![Bot Support](https://img.shields.io/badge/File%20Stream%20Bot-support%20group-blue)](https://t.me/codexmania)
+[![Bot Support](https://img.shields.io/badge/File%20Stream%20Bot-support%20group-blue)](https://t.me/SUPERBOTSZ)
 <h1 align="center">FileStreamBot</h1>
 <p align="center">
-  <img src="https://socialify.git.ci/Code-X-Mania/filestreambot/image?description=1&descriptionEditable=A%20very%20fast%20file%20streaming%20bot%20used%20for%20streaming%20and%20downloading%20movies&font=Source%20Code%20Pro&forks=1&issues=1&language=1&logo=https%3A%2F%2Fuser-images.githubusercontent.com%2F88939380%2F137127129-a86fc939-2931-4c66-b6f6-b57711a9eab7.png&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" alt="Cover Image" width="650">
+  <img src="https://socialify.git.ci/FRIENDLYTECHYT/filestreambot/image?description=1&descriptionEditable=A%20very%20fast%20file%20streaming%20bot%20used%20for%20streaming%20and%20downloading%20movies&font=Source%20Code%20Pro&forks=1&issues=1&language=1&logo=https%3A%2F%2Fuser-images.githubusercontent.com%2F88939380%2F137127129-a86fc939-2931-4c66-b6f6-b57711a9eab7.png&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" alt="Cover Image" width="650">
   </a>
 
   
@@ -17,9 +17,9 @@
     <br />
    </strong></a>
     <br />
-    <a href="https://github.com/code-x-mania/FileStreamBot/issues">Report a Bug</a>
+    <a href="https://github.com/FRIENDLYTECHYT/FileStreamBot/issues">Report a Bug</a>
     |
-    <a href="https://github.com/code-x-mania/FileStreamBot/issues">Request Feature</a>
+    <a href="https://github.com/FRIENDLYTECHYT/FileStreamBot/issues">Request Feature</a>
   </p>
 
 
@@ -92,7 +92,7 @@ then goto the <a href="#mandatory-vars">variables tab</a> for more info on setti
 
 
 ```py
-git clone https://github.com/code-x-mania/FileStreamBot
+git clone https://github.com/FRIENDLYTECHYT/FileStreamBot
 cd FileStreamBot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
